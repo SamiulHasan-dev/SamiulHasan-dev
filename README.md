@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/samiul_1998" target="blank"><img src="https://img.shields.io/twitter/follow/samiul_1998?logo=twitter&style=for-the-badge" alt="samiul_1998" /></a> </p>
 
+- 🔭 I’m currently working on **Web Programming**
+
+- 🌱 I’m currently learning **MERN Stack**
+
 - 💬 Ask me about **React, Next, Express & Node**
 
 - 📫 How to reach me **samiul.199897@gmail.com**
 
-- ⚡ Fun fact **I think I am too serious !**
+- ⚡ Fun fact **I think I am too serious!!**
 
 <br clear="both">
 
