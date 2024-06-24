@@ -30,7 +30,7 @@ const samiul = {
     country: 'Bangladesh',
     city: 'Dhaka',
     work: 'fresher, open for work',
-    linkedin: 'https://www.linkedin.com/in/smahmuddz',
+    linkedin: 'https://www.linkedin.com/in/samiul-hasan-mim',
     instagram: 'https://www.instagram.com/samiul_._hasan',
     hired: false,
     hireMe() {
