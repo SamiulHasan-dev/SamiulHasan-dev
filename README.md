@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **samiul.199897@gmail.com**
 
-- ⚡ Fun fact **I think I am too serious!!**
+- ⚡ Fun fact **Error is my nightmare**
 
 <br clear="both">
 
