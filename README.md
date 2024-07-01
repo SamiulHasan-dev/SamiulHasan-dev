@@ -61,4 +61,4 @@ const samiul = {
 
 <br clear="both">
 
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" /></p> 
+
